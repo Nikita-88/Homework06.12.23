@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\bin\Debug\net6.0\Homework06.12.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\bin\Debug\net6.0\Homework06.12.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\bin\Debug\net6.0\Homework06.12.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\bin\Debug\net6.0\Homework06.12.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\bin\Debug\net6.0\Homework06.12.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\refint\Homework06.12.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\Homework06.12.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Homework06.12\obj\Debug\net6.0\ref\Homework06.12.dll
